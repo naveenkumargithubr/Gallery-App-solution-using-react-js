@@ -1,0 +1,11 @@
+/* Write your code here. */
+
+.list-bg-container {
+  list-style-type: none;
+}
+
+.button-image {
+  background-color: #ffffff;
+  border: none;
+  margin-left: 0px;
+}

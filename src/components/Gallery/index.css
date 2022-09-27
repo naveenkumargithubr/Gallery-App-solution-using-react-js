@@ -1,0 +1,33 @@
+/* Write your code here. */
+
+.gallery-bg-container {
+  padding: 30px;
+}
+
+.main-image {
+  max-height: 550px;
+  width: 900px;
+}
+
+.heading {
+  font-size: 24px;
+  font-weight: 500;
+  color: #1e293b;
+}
+
+.desc {
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #64748b;
+  font-size: 17px;
+}
+
+.unordered-list-container {
+  display: flex;
+  flex-direction: row;
+  padding-left: 0px;
+}
+
+.img-container {
+  margin-left: 0px;
+}
